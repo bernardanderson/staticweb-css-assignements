@@ -1,0 +1,54 @@
+.article1 {
+  color: green;
+  background-color: white;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.1em;
+  line-height: 1.1em;
+  padding: 5%;
+  border: 2px solid red;
+  border-radius: 5em;
+}
+
+.article2 {
+  color: white;
+  background-color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.3em;
+  line-height: 1.3em;
+  padding: 10%;
+  border: 3px solid red;
+  border-radius: 10em;
+}
+
+.article3 {
+  color: tomato;
+  background-color: yellow;
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5em;
+  line-height: 1.5em;
+  padding: 15%;
+  border: 2px solid red;
+  border-radius: 25em;
+}
+
+.article4 {
+  color: tan;
+  background-color: gray;
+  font-family: 'Poiret One', cursive;
+  font-size: 1.8em;
+  line-height: 1.9em;
+  padding: 20%;
+  border: 2px solid red;
+  border-radius: 50em;
+}
+
+.article5 {
+  color: orange;
+  background-color: lightblue;
+  font-family: 'Lobster', cursive;
+  font-size: 2em;
+  line-height: 2.5em;
+  padding: 25%;
+  border: 2px solid red;
+  border-radius: 100em;
+}

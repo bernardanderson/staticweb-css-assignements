@@ -1,0 +1,21 @@
+ul li {
+  display: inline-block;
+  list-style: none;
+}
+
+a {
+  background-color: lightgray;
+  text-decoration: none;
+  padding: 5px 5px;
+  margin: 0 7px;
+}
+
+a:hover {
+  color: red;
+  background-color: darkgray;
+}
+
+a:active {
+  padding: 5px 10px;
+  margin: 0 2px;
+}
